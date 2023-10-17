@@ -2,7 +2,7 @@
 # Купрюхін Тимофій Артемович КІ-2
 import random 
 import numpy as np
-
+# Треба встановити модуль numpy
 
 def enter_data():
 	try:
